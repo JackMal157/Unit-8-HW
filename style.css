@@ -1,1 +1,20 @@
-
+body {
+    background: black;
+    font-family: arial;
+    color: #fff;
+  }
+  
+  h1 {
+    font-size: 80px;
+    padding: 20px 0 0 400px;
+    position: relative;
+  }
+  
+  h3 {
+    padding: 5px 0 15px 540px;
+    position: relative;
+  }
+  
+  .books {
+    padding: 0 0 0 300px;
+  }
